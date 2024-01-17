@@ -4,19 +4,19 @@ document.addEventListener("DOMContentLoaded", function () {
             name: "Sefer Alp Kurt",
             nickname: "Alppinae",
             image: "assest/css/img/jett.webp",
-            details: "Oyuncu1, takımımızın önde gelen isimlerinden biridir. Deneyimli ve stratejik bir oyuncudur."
+            details: " Oyuncu öncü veya kontrol karakterlerini tercih eder. Soğuk kanlı olduğu bir ana denk gelmediyseniz şanslısınız geldiyseniz çoktan ilk mermisi sizi bulmuştur. You cant hide but you cant run "
         },
         {
             name: "Ulaş Gündoğdu",
             nickname: "Desperate",
             image: "assest/css/img/Onival.jpg",
-            details: "Küçük Takımın Küçük Taraftarı 8 "
+            details: " Oyuncu sentinel oynayarak aynı zamanda karakterini yansıtır.Sabrını sınayacak kadar bekler ve arkanı döndüğün an herşeyi çoktan kaybetmişsindir. Desperate is my name but youre the one who seems Desperate right now "
         },
         {
             name: "Ümitcan Karabulut",
             nickname: "Jyix",
             image: "assest/css/img/kj.webp",
-            details: "Oyuncu3, ekip içindeki takım ruhunu destekleyen bir liderdir. Stratejik düşünme yeteneği ile bilinir."
+            details: " "
         },
         {
             name: "Talha Küçük",
@@ -25,10 +25,10 @@ document.addEventListener("DOMContentLoaded", function () {
             details: "Duelist Player "
         },
         {
-            name: "Oyuncu5",
-            nickname: "TakmaAd5",
+            name: "Furkan Özcan",
+            nickname: "dwellerjrr",
             image: "assest/css/img/saova.jpg",
-            details: "Oyuncu5, takımın stratejilerini hızlı bir şekilde uygulayabilen bir oyuncudur."
+            details: " "
         },
     ];
 
