@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
             name: "Ümitcan Karabulut",
             nickname: "Jyix",
             image: "assest/css/img/kj.webp",
-            details: " "
+            details: " Best IGL "
         },
         {
             name: "Talha Küçük",
@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
             name: "Furkan Özcan",
             nickname: "dwellerjrr",
             image: "assest/css/img/saova.jpg",
-            details: " "
+            details: " 60HZ GOD "
         },
     ];
 
